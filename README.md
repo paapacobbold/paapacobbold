@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andam-Cobbold Paapa</h1>
-<h3 align="center">A passionate frontend developer and data analysis enthusiast from</h3>
+<h3 align="center">A passionate frontend developer and data analysis enthusiast </h3>
 
 - 🔭 I’m currently working on **Scholar_Nest_Company**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Paapacobbold04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: LinkedIn: https://www.linkedin.com/in/paapa-andam-cobbold-b6398b26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app</h3>
 <p align="left">
 </p>
 
