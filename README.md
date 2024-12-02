@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andam-Cobbold Paapa</h1>
 <h3 align="center">A passionate frontend developer and data analysis enthusiast </h3>
 
-- 🔭 I’m currently working on **Scholar_Nest_Company**
+- 🔭 I’m currently working on **Guard-Rent**
 
 - 🌱 I’m currently learning **React Native**
 
